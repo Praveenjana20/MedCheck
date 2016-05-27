@@ -1,0 +1,13 @@
+We are developing a mobile and web based application to book appointment for medical checkup (general check up, Consulting with doctor, for X-ray, Diabetes test etc.) for which people spending more time and money. In this app we are providing login for doctors and patients.
+
+Doctors Login:
+1. Can manage their appointments (Calendar).
+2. Receive requests from patients for appointments (They can accept or reject with a reason).
+
+Patient Login:
+1. Can search and view doctors list based on location or on their specialization.
+2. Book appointments(sending request to doctors) .
+3. Fee details are transparent.
+4. Can chat with doctor to get clarified for any queries.
+5. Can Maintain & Save medical reports of patients.
+
